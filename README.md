@@ -31,7 +31,7 @@ These learned distributions are then used in simulation studies to compare metho
 - `sanity check4.15`  
   Sanity check for MAD\_mean-based p-values: analytic versus simulated results.
   
-- `sanity check7.1, 7.2,7.3`  
+- `sanity check7.1,7.2,7.3`  
   Sanity check for global null.
 ## Current focus
 
